@@ -1,4 +1,4 @@
-![I design & code for the modern web](https://github.com/vkioresku/vladislav-chiorescu/blob/main/cover.gif)
+![I design & code for the modern web](https://github.com/vladislav-chiorescu/vladislav-chiorescu/blob/main/cover.gif)
 
 <h1>About 🙋‍♂️</h1>
 
@@ -15,7 +15,7 @@
 <h1>Contact 🤝</h1>
 
 <p>
-  <a href="https://github.com/vkioresku" target="_blank">
+  <a href="https://github.com/vladislav-chiorescu" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-12100e?&logo=github&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/vladislav-chiorescu" target="_blank">
